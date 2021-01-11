@@ -1,4 +1,4 @@
-#AES-crypt in Goland
+#AES-crypt in Golang
 anything text
 
 #Flags
