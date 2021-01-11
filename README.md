@@ -1,7 +1,7 @@
-#AES-crypt in Golang
+# AES-crypt in Golang
 anything text
 
-#Flags
+# Flags
 -d  - Decrypt mode
 
 -r  - Read-only decrypt mode. **Use with -d**
